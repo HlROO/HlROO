@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @HlROO (H!RO)
-- 👀 I’m interested in video games, manga, animated as well as music
-- 🌱 For the moment I am not learning anything yet, I am here to maybe discover and learn 
-- 📫 How to reach me? On discord: H!RO#0067
+- 👀 I’m interested in video games and music
+- 🌱 For the moment i have learn a little bit of HTML and CSS  
+- 📫 How to reach me? On discord:  @m8hro (H!RO)
+  
 
 <!---
 HlROO/HlROO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
