@@ -1,4 +1,4 @@
-# hello, I am H!RO
+# hello, I am H!RO 😘
 
 - 👋 Hi, I’m @HlROO (H!RO)
 - 👀 I’m interested in video games and music
